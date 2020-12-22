@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="races">
+        <item>Amazon</item>
+        <item>Chaos</item>
+        <item>Chaos Dwarf</item>
+        <item>Dark Elf</item>
+        <item>Dwarf</item>
+        <item>Goblin</item>
+        <item>Halfling</item>
+        <item>High Elf</item>
+        <item>Human</item>
+        <item>Khemri</item>
+        <item>Lizardmen</item>
+        <item>Norse</item>
+        <item>Nurgle</item>
+        <item>Orc</item>
+        <item>Skaven</item>
+        <item>Necromantic</item>
+        <item>Undead</item>
+        <item>Wood Elf</item>
+    </string-array>
+</resources>
